@@ -3,7 +3,7 @@ I'm a Machine Learning Engineer with a strong focus on building intelligent syst
 I also bring proficiency in System Design and Cloud Computing, ensuring that solutions are scalable, efficient, and ready for real-world deployment.
 
 ### 🔧 Skills & Technologies
-- Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn, XGBoost
+- Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn, XGBoost, Langchain
 - Computer Vision: OpenCV, CNNs, GANs, Object Detection
 - Time Series Analysis: ARIMA, LSTMs, Prophet, Feature Engineering
 - System Design: Microservices, Distributed Systems, High-Availability Architectures
@@ -20,3 +20,4 @@ I’m always open to collaborations, discussions, and knowledge-sharing. Reach o
 LinkedIn
 - [Email](mailto:meetxvii@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/meetxvii/)
+
